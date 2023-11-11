@@ -1,11 +1,11 @@
 # ReactHooks
 
-### Inveon Bootcamp - React Hooks Example
+### Inveon Bootcamp - React Hooks & Component Lifecycle Example
 
 - Hooks
     - useState
     - useEffect
-- Lifecycle
+- Component Lifecycle
     - componentDidMount
     - componentDidUpdate
     - componentWillUnmount
